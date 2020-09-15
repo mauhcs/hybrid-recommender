@@ -1,4 +1,6 @@
-# Problem: Item Recommendation
+# The Problem: 
+
+## Item Recommendation
 
 A recommendation system by Mau Hernandes, Ph.D. - September 2020
 
