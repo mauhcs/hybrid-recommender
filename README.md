@@ -1,10 +1,8 @@
-# The Problem: 
-
-## Item Recommendation
-
 A recommendation system by Mau Hernandes, Ph.D. - September 2020
 
-This repo contains the material for an Item Recommendation System for users. 
+# The Problem: 
+
+Item Recommendation System for users of a (web) app. 
 
 # The setup
 Given the artificial files `item_history.tsv`, `user_master.tsv` and `target_users.tsv` (see 'how to download' section), to build a recommendation system that maximizes the accuracy of the recommendation but with certain level of variaty (entropy) on the selection.
