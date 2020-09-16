@@ -7,7 +7,13 @@ Item Recommendation System for users of a (web) app.
 # The setup
 Given the artificial files `item_history.tsv`, `user_master.tsv` and `target_users.tsv` (see 'how to download' section), to build a recommendation system that maximizes the accuracy of the recommendation but with certain level of variaty (entropy) on the selection.
 
-This repo contains 3 main componets: 1) A PDF report with the key concepts and ideas for this project, 2) Jupyter notebooks going through the steps of building the system and 3) a few python files with functions and classes used for some of the notebooks. 
+This repo contains 3 main componets: 
+
+  1. A PDF report with the key concepts and ideas for this project, 
+  
+  2. Jupyter notebooks going through the steps of building the system and 
+  
+  3. a few python files with functions and classes used for some of the notebooks. 
 
 The final recommendation model is in the notebook called `5. Model`
 
@@ -50,10 +56,13 @@ A quick tutorial on how to install Spark on Ubuntu: https://medium.com/solving-t
     - make_Y.py:   File for cleaning the data to make training and testing data
     - metrics.py:  File containg functions to calculate the nDCG metrics.
 
+## How to download data
+
+A dataset for the code can be downloaded [here](https://drive.google.com/drive/folders/1zWPz00l2pfMsHjJnF6WI509ogeSvoxIs)
+
 ### Data Folder:
 
   1. data: Contain all the data (`.tsv` files) that the different functions and methods read and write to.
-  2. models: contains the pre trained/fitted models for the recommendation system. (Actually I omitted the model from the repo because the final version had 500MB+)
 
 
   
