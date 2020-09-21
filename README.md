@@ -31,7 +31,7 @@ First check the pdf for an overview of the system. Start with the the abstract a
 
 A quick tutorial on how to install Spark on Ubuntu: https://medium.com/solving-the-human-problem/installing-spark-on-ubuntu-20-on-digital-ocean-in-2020-a7e4b5b65ffb
 
-## Folder description
+## Folder description 
 
 ### Notebooks:
 
